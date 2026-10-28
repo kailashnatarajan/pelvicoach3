@@ -1,0 +1,7 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true
+  },
+  "exclude": ["web", "dist", "standalone_for_github", "github_pages_deploy"]
+}
